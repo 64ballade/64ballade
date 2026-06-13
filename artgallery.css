@@ -1,0 +1,11 @@
+body {
+  background-image: url('gifs/stars.gif');
+  color: #25B5B8;
+  font-family: Verdana;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
